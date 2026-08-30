@@ -6,5 +6,7 @@ console.log(idade);
 
 idade = 26;
 console.log(idade);
+idade++;
 
+idade++;
 // nome = "Outro";
